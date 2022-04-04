@@ -1,0 +1,393 @@
+{
+  "@@last_modified": "2022-04-04T16:49:06.117117",
+  "commonOk": "Ok",
+  "@commonOk": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "commonCancel": "Cancel",
+  "@commonCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "childHomeTitle": "ホーム",
+  "@childHomeTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settingPageTitle": "設定",
+  "@settingPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appPageTitle": "アプリ",
+  "@appPageTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "badRequestError": "Bad requests!",
+  "@badRequestError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unauthorizedError": "Access Denied!",
+  "@unauthorizedError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "forbiddenError": "Forbidden Errors!",
+  "@forbiddenError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "networkError": "An error occurred. We will record and fix this issue soon!",
+  "@networkError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "parseError": "Data parsing error!",
+  "@parseError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connectTimeoutError": "Connection timeout with API server!",
+  "@connectTimeoutError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "connectError": "There is no Internet connection!",
+  "@connectError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "sendTimeoutError": "Send timeout in connection with API server!",
+  "@sendTimeoutError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "receiveTimeoutError": "Receive timeout in connection with API server!",
+  "@receiveTimeoutError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelError": "Request to API server was cancelled!",
+  "@cancelError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginSubmitError": "Submit error!",
+  "@loginSubmitError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notesEditorScreenLabelTitleConfirmRemoveNote": "Remove note",
+  "@notesEditorScreenLabelTitleConfirmRemoveNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "notesEditorScreenLabelDescriptionConfirmRemoveNote": "Are you sure you want to delete this note?",
+  "@notesEditorScreenLabelDescriptionConfirmRemoveNote": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelAppBarTitle": "Login Page",
+  "@loginScreenLabelAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelTitlePage": "Welcome",
+  "@loginScreenLabelTitlePage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelSubTitle": "Sign in with your email and password",
+  "@loginScreenLabelSubTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelEmail": "Email",
+  "@loginScreenLabelEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelPassword": "Password",
+  "@loginScreenLabelPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelEmailErrorMessage": "メールアドレスを入力してください。",
+  "@loginScreenLabelEmailErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelEmailTypeErrorMessage": "メールアドレスを正しく入力してください。 \n例：sample@gmail.com",
+  "@loginScreenLabelEmailTypeErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelPasswordErrorMessage": "パスワードを入力してください。",
+  "@loginScreenLabelPasswordErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelPasswordLengthErrorMessage": "パスワードを正しく入力してください。６字以上で入力してください。",
+  "@loginScreenLabelPasswordLengthErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginScreenLabelLoginButton": "Login",
+  "@loginScreenLabelLoginButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ok": "OK",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "oops": "Oops, Something Went Wrong",
+  "@oops": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "retry": "Retry",
+  "@retry": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "textErrorName": "Please enter input name",
+  "@textErrorName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "textErrorAge": "Please enter input age",
+  "@textErrorAge": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "textErrorEmail": "Please enter input email",
+  "@textErrorEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emailNotValid": "Email is not valid",
+  "@emailNotValid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "titleBottomSheet": "LIST OF DISTRICTS",
+  "@titleBottomSheet": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadPreviousWebError": "No back history web!",
+  "@loadPreviousWebError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadNextWebError": "No forward history web!",
+  "@loadNextWebError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "bottomSheetButtonConfirmText": "Confirm",
+  "@bottomSheetButtonConfirmText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "showBottomSheetTitle": "show bottom",
+  "@showBottomSheetTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "serviceCityTitle": "サービス利用市区村町",
+  "@serviceCityTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectIndexDistrict": "豊能町",
+  "@selectIndexDistrict": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountSettingTitle": "各種設定",
+  "@accountSettingTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "accountUpdate": "登録情報変更",
+  "@accountUpdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "otherSettingTitle": "その他",
+  "@otherSettingTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "contactLink": "お問い合わせ",
+  "@contactLink": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termsTitle": "利用規約",
+  "@termsTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "policyTitle": "プライバシーポリシー",
+  "@policyTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteDistrict": "Delete district",
+  "@deleteDistrict": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "deleteDistrictConfirm": "Are you sure to delete ",
+  "@deleteDistrictConfirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "districtList": "District list",
+  "@districtList": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "district": "地区を入力してください。",
+  "@district": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "addDistrict": "住所追加",
+  "@addDistrict": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "urlDistrict": "地区のURLを入力してください。",
+  "@urlDistrict": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "submit": "Submit",
+  "@submit": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyDistrict": "There is no district available",
+  "@emptyDistrict": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "iconAdd": "+",
+  "@iconAdd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "districtNameErrorMessage": "地区が入力されていません。",
+  "@districtNameErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "districtUrlErrorEmptyMessage": "地区URLが入力されていません。",
+  "@districtUrlErrorEmptyMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "districtUrlErrorMessage": "URLを正しく入力してください。",
+  "@districtUrlErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerScreenLabelAppBarTitle": "アカウント登録",
+  "@registerScreenLabelAppBarTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerScreenSubmitButtonTitle": "アカウントを作成する",
+  "@registerScreenSubmitButtonTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerScreenLabelEmail": "メールアドレス ",
+  "@registerScreenLabelEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerScreenLabelPassword": "パスワード ",
+  "@registerScreenLabelPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerScreenLabelConfirmPassword": "パスワードの再確認 ",
+  "@registerScreenLabelConfirmPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerScreenLabelPasswordErrorMessage": "入力されたパスワードが一致しません。",
+  "@registerScreenLabelPasswordErrorMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "requiredText": "(必須)",
+  "@requiredText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "privacyTitle": "プライバシーポリシー",
+  "@privacyTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "termTitle": "利用規約",
+  "@termTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "registerScreenConfirmedLabelText": "確認後、チェックを入れてください ",
+  "@registerScreenConfirmedLabelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDistrictTitle": "サービス利用自治体選択",
+  "@selectDistrictTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirmText": "確認",
+  "@confirmText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancelText": "キャンセル",
+  "@cancelText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptySearchText": "一致結果が見つかりませんでした。",
+  "@emptySearchText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchText": "検索",
+  "@searchText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectDistrictButton": "登録する",
+  "@selectDistrictButton": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loginText": "ログイン",
+  "@loginText": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
